@@ -1,0 +1,6 @@
+ktor:
+  application:
+    modules:
+      - pt.noticias.NewsApplicationKt.module
+  deployment:
+    port: 8080
